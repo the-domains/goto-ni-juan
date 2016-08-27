@@ -1,7 +1,7 @@
 name: Goto ni Juan
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
+layout_spectrum: 0.7900738934986293
+typography_spectrum: 0.959061405621469
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e43e26'
-    - '#f7dc12'
-    - '#ffffff'
-    - '#f47920'
-    - '#efa21a'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08122220984660089
+  lightness: 0.4310338271316141
+  saturation: 0.498175713699311
+  rhythmicContrast: 0.10466890782117844
 purpose: []
