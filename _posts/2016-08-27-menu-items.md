@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Menu Items
-datePublished: '2016-08-27T05:43:21.618Z'
-dateModified: '2016-08-27T05:42:30.573Z'
+datePublished: '2016-08-27T05:52:05.105Z'
+dateModified: '2016-08-27T05:50:16.608Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-27-menu-items.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-08-27-menu-items.md
+starred: true
 url: menu-items/index.html
 _type: Article
 
